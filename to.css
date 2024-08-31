@@ -128,5 +128,8 @@ ul li span:hover {
     
     .todo{
         width: 355px;
+        margin: 1px auto 20px;
+        height: 140vh;
     }
+    
 }
