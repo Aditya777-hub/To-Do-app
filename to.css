@@ -123,3 +123,10 @@ ul li span:hover {
         height: 140vh;
     }
 }
+
+@media screen and (max-width:375px){
+    
+    .todo{
+        width: 355px;
+    }
+}
