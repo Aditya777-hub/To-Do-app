@@ -144,3 +144,10 @@ ul li span:hover {
         right: 20px;
     }
 }
+
+@media screen and (max-width:400px){
+    .todo{
+        width: 375px;
+    }
+    
+}
