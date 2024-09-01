@@ -118,7 +118,7 @@ ul li span:hover {
     }
 
     .todo {
-        width: 405px;
+        width: 388px;
         margin: 1px auto 20px;
         height: 140vh;
     }
@@ -132,4 +132,15 @@ ul li span:hover {
         height: 140vh;
     }
     
+}
+
+@media screen and (max-width:320px){
+    .todo{
+      width: 299px;
+    }
+
+    button{
+        position: absolute;
+        right: 20px;
+    }
 }
